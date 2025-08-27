@@ -55,32 +55,22 @@ class Laskin
 
             case "4":
                 // Jakolasku
-                Console.Write("Annas luku jaettavaksi ");
-                string? input1 = Console.ReadLine();
+                using System;
+        Console.WriteLine("Jakolasku");
 
-                Console.Write("Annas jakaja ");
-                string? input2 = Console.ReadLine();
+        Console.Write("Jaettava luku: ");
+        string? jaettavaStr = Console.ReadLine();
+        double jaettava = Convert.ToDouble(jaettavaStr);
 
-                if (double.TryParse(input1, out double jaettava) && double.TryParse(input2, out double jakaja))
-                {
-                    if (jakaja == 0)
-                    {
-                        Console.WriteLine("Nollalla ei voi jakaa");
-                    }
-                    else
-                    {
-                        double osamaara = jaettava / jakaja;
-                        Console.WriteLine($"Tulos: {jaettava} / {jakaja} = {osamaara}");
-                    }
-                }
-                break;
-            default:
-                Console.WriteLine("Virheellinen valinta.");
-                break;
+        Console.Write("Jakaja: ");
+        string? jakajaStr = Console.ReadLine();
+        double jakaja = Convert.ToDouble(jakajaStr);
 
+        double tulos = jaettava / jakaja;
 
-                Console.WriteLine("Paina Enter lopettaaksesi.");
-                Console.ReadLine();
+        Console.WriteLine($"Tulos: {jaettava} / {jakaja} = {tulos}");
+
+        Console.ReadLine();
         }
     }
 }
