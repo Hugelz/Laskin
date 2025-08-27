@@ -7,11 +7,11 @@ class MiinusLaskin
         Console.WriteLine("Miinuslasku");
 
         Console.Write("Anna eka luku: ");
-        string syöte1 = Console.ReadLine();
+        string miinus1 = Console.ReadLine();
         double luku1 = Convert.ToDouble(syöte1);
 
         Console.Write("Anna toinen luku: ");
-        string syöte2 = Console.ReadLine();
+        string miinus2 = Console.ReadLine();
         double luku2 = Convert.ToDouble(syöte2);
 
         double tulos = luku1 - luku2;
