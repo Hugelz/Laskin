@@ -55,7 +55,6 @@ class Laskin
 
             case "4":
                 // Jakolasku
-                using System;
                 Console.WriteLine("Jakolasku");
 
                 Console.Write("Jaettava luku: ");
