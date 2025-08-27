@@ -1,0 +1,15 @@
+C:\Users\Aaron\OneDrive - Kouvolan Ammattiopisto Oy, Eduko\Tiedostot\GitHub\Laskin\Lasku\bin\Debug\net9.0\Lasku.exe
+C:\Users\Aaron\OneDrive - Kouvolan Ammattiopisto Oy, Eduko\Tiedostot\GitHub\Laskin\Lasku\bin\Debug\net9.0\Lasku.deps.json
+C:\Users\Aaron\OneDrive - Kouvolan Ammattiopisto Oy, Eduko\Tiedostot\GitHub\Laskin\Lasku\bin\Debug\net9.0\Lasku.runtimeconfig.json
+C:\Users\Aaron\OneDrive - Kouvolan Ammattiopisto Oy, Eduko\Tiedostot\GitHub\Laskin\Lasku\bin\Debug\net9.0\Lasku.dll
+C:\Users\Aaron\OneDrive - Kouvolan Ammattiopisto Oy, Eduko\Tiedostot\GitHub\Laskin\Lasku\bin\Debug\net9.0\Lasku.pdb
+C:\Users\Aaron\OneDrive - Kouvolan Ammattiopisto Oy, Eduko\Tiedostot\GitHub\Laskin\Lasku\obj\Debug\net9.0\Lasku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aaron\OneDrive - Kouvolan Ammattiopisto Oy, Eduko\Tiedostot\GitHub\Laskin\Lasku\obj\Debug\net9.0\Lasku.AssemblyInfoInputs.cache
+C:\Users\Aaron\OneDrive - Kouvolan Ammattiopisto Oy, Eduko\Tiedostot\GitHub\Laskin\Lasku\obj\Debug\net9.0\Lasku.AssemblyInfo.cs
+C:\Users\Aaron\OneDrive - Kouvolan Ammattiopisto Oy, Eduko\Tiedostot\GitHub\Laskin\Lasku\obj\Debug\net9.0\Lasku.csproj.CoreCompileInputs.cache
+C:\Users\Aaron\OneDrive - Kouvolan Ammattiopisto Oy, Eduko\Tiedostot\GitHub\Laskin\Lasku\obj\Debug\net9.0\Lasku.sourcelink.json
+C:\Users\Aaron\OneDrive - Kouvolan Ammattiopisto Oy, Eduko\Tiedostot\GitHub\Laskin\Lasku\obj\Debug\net9.0\Lasku.dll
+C:\Users\Aaron\OneDrive - Kouvolan Ammattiopisto Oy, Eduko\Tiedostot\GitHub\Laskin\Lasku\obj\Debug\net9.0\refint\Lasku.dll
+C:\Users\Aaron\OneDrive - Kouvolan Ammattiopisto Oy, Eduko\Tiedostot\GitHub\Laskin\Lasku\obj\Debug\net9.0\Lasku.pdb
+C:\Users\Aaron\OneDrive - Kouvolan Ammattiopisto Oy, Eduko\Tiedostot\GitHub\Laskin\Lasku\obj\Debug\net9.0\Lasku.genruntimeconfig.cache
+C:\Users\Aaron\OneDrive - Kouvolan Ammattiopisto Oy, Eduko\Tiedostot\GitHub\Laskin\Lasku\obj\Debug\net9.0\ref\Lasku.dll
