@@ -8,11 +8,11 @@ class MiinusLaskin
 
         Console.Write("Anna eka luku: ");
         string miinus1 = Console.ReadLine();
-        double luku1 = Convert.ToDouble(syöte1);
+        double luku1 = Convert.ToDouble(miinus1);
 
         Console.Write("Anna toinen luku: ");
         string miinus2 = Console.ReadLine();
-        double luku2 = Convert.ToDouble(syöte2);
+        double luku2 = Convert.ToDouble(miinus2);
 
         double tulos = luku1 - luku2;
 
