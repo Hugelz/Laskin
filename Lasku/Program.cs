@@ -1,16 +1,23 @@
 using System;
 
-class Program
+class JakoLaskin
 {
     static void Main()
     {
-        Console.Write("Anna jaettava luku: ");
-        double jaettava = double.Parse(Console.ReadLine());
+        Console.WriteLine("Jakolasku");
 
-        Console.Write("Anna jakaja: ");
-        double jakaja = double.Parse(Console.ReadLine());
+        Console.Write("Jaettava luku: ");
+        string? jaettavaStr = Console.ReadLine();
+        double jaettava = Convert.ToDouble(jaettavaStr);
+
+        Console.Write("Jakaja: ");
+        string? jakajaStr = Console.ReadLine();
+        double jakaja = Convert.ToDouble(jakajaStr);
 
         double tulos = jaettava / jakaja;
-        Console.WriteLine($"{jaettava} / {jakaja} = {tulos}");
+
+        Console.WriteLine($"Tulos: {jaettava} / {jakaja} = {tulos}");
+
+        Console.ReadLine();
     }
 }
