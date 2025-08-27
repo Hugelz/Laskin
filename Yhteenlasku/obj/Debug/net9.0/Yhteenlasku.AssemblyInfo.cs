@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Yhteenlasku")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d43851ccc04f52dce3daad34283437637f3487c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f1e0affb33f13847ee2aee3f450289a2d941264")]
 [assembly: System.Reflection.AssemblyProductAttribute("Yhteenlasku")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Yhteenlasku")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
