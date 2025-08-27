@@ -9,7 +9,7 @@ class Laskin
         Console.WriteLine("1. Yhteenlasku");
         Console.WriteLine("2. Vähennyslasku");
         Console.WriteLine("3. Kertolasku");
-        Console.WriteLine("4. Jakolasku")
+        Console.WriteLine("4. Jakolasku");
         Console.Write("Valintasi (1-4): ");
 
         string valinta = Console.ReadLine();
@@ -47,14 +47,32 @@ class Laskin
 
             case "4":
                 // Jakolasku
+                Console.Write("Annas luku jaettavaksi ");
+                string? input1 = Console.ReadLine();
 
+                Console.Write("Annas jakaja ");
+                string? input2 = Console.ReadLine();
+
+                if (double.TryParse(input1, out double jaettava) && double.TryParse(input2, out double jakaja))
+                {
+                    if (jakaja == 0)
+                    {
+                        Console.WriteLine("Nollalla ei voi jakaa");
+                    }
+                    else
+                    {
+                        double osamaara = jaettava / jakaja;
+                        Console.WriteLine($"Tulos: {jaettava} / {jakaja} = {osamaara}");
+                    }
+                }
                 break;
             default:
                 Console.WriteLine("Virheellinen valinta.");
                 break;
-        }
 
-        Console.WriteLine("Paina Enter lopettaaksesi.");
-        Console.ReadLine();
+
+                Console.WriteLine("Paina Enter lopettaaksesi.");
+                Console.ReadLine();
+        }
     }
 }
