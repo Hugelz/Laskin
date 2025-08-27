@@ -56,21 +56,21 @@ class Laskin
             case "4":
                 // Jakolasku
                 using System;
-        Console.WriteLine("Jakolasku");
+                Console.WriteLine("Jakolasku");
 
-        Console.Write("Jaettava luku: ");
-        string? jaettavaStr = Console.ReadLine();
-        double jaettava = Convert.ToDouble(jaettavaStr);
+                Console.Write("Jaettava luku: ");
+                string? jaettavaStr = Console.ReadLine();
+                double jaettava = Convert.ToDouble(jaettavaStr);
 
-        Console.Write("Jakaja: ");
-        string? jakajaStr = Console.ReadLine();
-        double jakaja = Convert.ToDouble(jakajaStr);
+                Console.Write("Jakaja: ");
+                string? jakajaStr = Console.ReadLine();
+                double jakaja = Convert.ToDouble(jakajaStr);
 
-        double tulos = jaettava / jakaja;
+                double tulos = jaettava / jakaja;
 
-        Console.WriteLine($"Tulos: {jaettava} / {jakaja} = {tulos}");
+                Console.WriteLine($"Tulos: {jaettava} / {jakaja} = {tulos}");
 
-        Console.ReadLine();
+                Console.ReadLine();
         }
     }
 }
