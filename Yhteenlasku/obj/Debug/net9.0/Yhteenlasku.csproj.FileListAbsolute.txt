@@ -1,0 +1,15 @@
+C:\Users\Emre\Documents\GitHub\Laskin\Yhteenlasku\bin\Debug\net9.0\Yhteenlasku.exe
+C:\Users\Emre\Documents\GitHub\Laskin\Yhteenlasku\bin\Debug\net9.0\Yhteenlasku.deps.json
+C:\Users\Emre\Documents\GitHub\Laskin\Yhteenlasku\bin\Debug\net9.0\Yhteenlasku.runtimeconfig.json
+C:\Users\Emre\Documents\GitHub\Laskin\Yhteenlasku\bin\Debug\net9.0\Yhteenlasku.dll
+C:\Users\Emre\Documents\GitHub\Laskin\Yhteenlasku\bin\Debug\net9.0\Yhteenlasku.pdb
+C:\Users\Emre\Documents\GitHub\Laskin\Yhteenlasku\obj\Debug\net9.0\Yhteenlasku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Documents\GitHub\Laskin\Yhteenlasku\obj\Debug\net9.0\Yhteenlasku.AssemblyInfoInputs.cache
+C:\Users\Emre\Documents\GitHub\Laskin\Yhteenlasku\obj\Debug\net9.0\Yhteenlasku.AssemblyInfo.cs
+C:\Users\Emre\Documents\GitHub\Laskin\Yhteenlasku\obj\Debug\net9.0\Yhteenlasku.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Documents\GitHub\Laskin\Yhteenlasku\obj\Debug\net9.0\Yhteenlasku.sourcelink.json
+C:\Users\Emre\Documents\GitHub\Laskin\Yhteenlasku\obj\Debug\net9.0\Yhteenlasku.dll
+C:\Users\Emre\Documents\GitHub\Laskin\Yhteenlasku\obj\Debug\net9.0\refint\Yhteenlasku.dll
+C:\Users\Emre\Documents\GitHub\Laskin\Yhteenlasku\obj\Debug\net9.0\Yhteenlasku.pdb
+C:\Users\Emre\Documents\GitHub\Laskin\Yhteenlasku\obj\Debug\net9.0\Yhteenlasku.genruntimeconfig.cache
+C:\Users\Emre\Documents\GitHub\Laskin\Yhteenlasku\obj\Debug\net9.0\ref\Yhteenlasku.dll
