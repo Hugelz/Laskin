@@ -6,11 +6,11 @@ class MiinusLaskin
     {
         Console.WriteLine("Miinuslasku");
 
-        Console.Write("Anna eka luku: ");
+        Console.Write("Eka luku: ");
         string miinus1 = Console.ReadLine();
         double luku1 = Convert.ToDouble(miinus1);
 
-        Console.Write("Anna toinen luku: ");
+        Console.Write("Toka luku: ");
         string miinus2 = Console.ReadLine();
         double luku2 = Convert.ToDouble(miinus2);
 
