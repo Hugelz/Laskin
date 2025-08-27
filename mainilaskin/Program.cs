@@ -42,6 +42,14 @@ class Laskin
 
             case "3":
                 // Kertolasku
+                Console.Write("Anna ensimmäinen luku: ");
+                int c = int.Parse(Console.ReadLine());
+
+                Console.Write("Anna toinen luku: ");
+                int d = int.Parse(Console.ReadLine());
+
+                int kertolasku = c * d;
+                Console.WriteLine($"{c} * {d} = {kertolasku}");
 
                 break;
 

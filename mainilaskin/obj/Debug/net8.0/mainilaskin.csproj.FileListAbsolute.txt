@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Laskin\mainilaskin\bin\Debug\net8.0\mainilaskin.exe
+C:\Users\user\source\repos\Laskin\mainilaskin\bin\Debug\net8.0\mainilaskin.deps.json
+C:\Users\user\source\repos\Laskin\mainilaskin\bin\Debug\net8.0\mainilaskin.runtimeconfig.json
+C:\Users\user\source\repos\Laskin\mainilaskin\bin\Debug\net8.0\mainilaskin.dll
+C:\Users\user\source\repos\Laskin\mainilaskin\bin\Debug\net8.0\mainilaskin.pdb
+C:\Users\user\source\repos\Laskin\mainilaskin\obj\Debug\net8.0\mainilaskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Laskin\mainilaskin\obj\Debug\net8.0\mainilaskin.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Laskin\mainilaskin\obj\Debug\net8.0\mainilaskin.AssemblyInfo.cs
+C:\Users\user\source\repos\Laskin\mainilaskin\obj\Debug\net8.0\mainilaskin.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Laskin\mainilaskin\obj\Debug\net8.0\mainilaskin.sourcelink.json
+C:\Users\user\source\repos\Laskin\mainilaskin\obj\Debug\net8.0\mainilaskin.dll
+C:\Users\user\source\repos\Laskin\mainilaskin\obj\Debug\net8.0\refint\mainilaskin.dll
+C:\Users\user\source\repos\Laskin\mainilaskin\obj\Debug\net8.0\mainilaskin.pdb
+C:\Users\user\source\repos\Laskin\mainilaskin\obj\Debug\net8.0\mainilaskin.genruntimeconfig.cache
+C:\Users\user\source\repos\Laskin\mainilaskin\obj\Debug\net8.0\ref\mainilaskin.dll
